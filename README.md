@@ -1,0 +1,2 @@
+# Case-Lab
+Stock Management
